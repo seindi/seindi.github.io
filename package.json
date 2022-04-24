@@ -38,14 +38,14 @@
         },
         {
             "attribute": {
-                "href": "/js/app.9bd46e20.js",
+                "href": "/js/app.be6773d6.js",
                 "rel": "preload",
                 "as": "script"
             }
         },
         {
             "attribute": {
-                "href": "/js/chunk-vendors.78259a54.js",
+                "href": "/js/chunk-vendors.65e35278.js",
                 "rel": "preload",
                 "as": "script"
             }
