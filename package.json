@@ -1,0 +1,66 @@
+{
+    "router": [
+        "/",
+        "/about"
+    ],
+    "link": [
+        {
+            "attribute": {
+                "href": "/css/chunk-6d9473e6.efc16d49.css",
+                "rel": "prefetch"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/js/chunk-2d23718c.5f5e7573.js",
+                "rel": "prefetch"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/js/chunk-6d9473e6.230d7454.js",
+                "rel": "prefetch"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/css/app.8da72f57.css",
+                "rel": "preload",
+                "as": "style"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/css/chunk-vendors.856cf361.css",
+                "rel": "preload",
+                "as": "style"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/js/app.9bd46e20.js",
+                "rel": "preload",
+                "as": "script"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/js/chunk-vendors.78259a54.js",
+                "rel": "preload",
+                "as": "script"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/css/chunk-vendors.856cf361.css",
+                "rel": "stylesheet"
+            }
+        },
+        {
+            "attribute": {
+                "href": "/css/app.8da72f57.css",
+                "rel": "stylesheet"
+            }
+        }
+    ]
+}
